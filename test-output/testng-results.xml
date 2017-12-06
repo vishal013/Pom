@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25946" started-at="2017-12-05T10:32:16Z" finished-at="2017-12-05T10:32:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25946" started-at="2017-12-05T10:32:16Z" finished-at="2017-12-05T10:32:42Z">
+      <class name="com.pomframework.verifyLoginTestCase">
+        <test-method status="PASS" signature="mmtURL()[pri:0, instance:com.pomframework.verifyLoginTestCase@724af044]" name="mmtURL" duration-ms="25928" started-at="2017-12-05T16:02:16Z" finished-at="2017-12-05T16:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mmtURL -->
+      </class> <!-- com.pomframework.verifyLoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
